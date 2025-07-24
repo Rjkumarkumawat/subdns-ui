@@ -1,5 +1,3 @@
-
-````markdown
 # 🛰️ SubDNS-UI
 
 **SubDNS-UI** is a powerful and elegant **Subdomain + DNS Enumeration Tool** built with Python and Streamlit. It helps you discover active subdomains and gather DNS records (A, MX, TXT, CNAME, etc.) — with real-time display and Markdown report generation.
@@ -20,12 +18,6 @@
 
 ---
 
-## 🖼️ UI Preview
-
-![SubDNS-UI Screenshot](https://your-screenshot-url.com) <!-- Optional: replace with real image -->
-
----
-
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
@@ -33,7 +25,7 @@
 ```bash
 git clone https://github.com/Rjkumarkumawat/subdns-ui.git
 cd subdns-ui
-````
+```
 
 ### 2. Install Dependencies
 
@@ -117,9 +109,9 @@ _Generated on 2025-07-24 20:10:12_
 
 **Rajkumar Kumawat**
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/rajkumar-kumawat-66072b199)
-* ✍️ [Medium](https://medium.com/@rajkumarkumawat.workup)
-* 🛠️ [GitHub](https://github.com/Rjkumarkumawat/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rajkumar-kumawat-66072b199/)
+- ✍️ [Medium](https://medium.com/@rajkumarkumawat.workup)
+- 🛠️ [GitHub](https://github.com/Rjkumarkumawat/)
 
 ---
 
@@ -132,5 +124,3 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 ## ⭐ Star This Project!
 
 If you find this project helpful, consider giving it a ⭐ on GitHub to show support and help others discover it.
-
-```
